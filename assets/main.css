@@ -4,8 +4,9 @@
   display: none !important;
 }
 
+
 .site-nav .trigger {
-  display: block !important;
+  display: none !important;
   clear: none;
 }
 h1 {
