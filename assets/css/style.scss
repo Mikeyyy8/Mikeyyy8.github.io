@@ -1,0 +1,24 @@
+@import "{{ site.theme }}";
+
+h1 {
+  color: #1A237E;
+  border-bottom: 2px solid #3949AB;
+  padding-bottom: 6px;
+  margin-top: 2rem;
+}
+
+h2 {
+  color: #283593;
+  margin-top: 1.5rem;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  color: #212121;
+}
+
+.site-title {
+  color: #1A237E !important;
+  font-weight: bold;
+}
