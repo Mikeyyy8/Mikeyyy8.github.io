@@ -4,9 +4,6 @@ title: Terms of Service
 permalink: /terms-of-service/
 ---
 
-# Propound
-**Effective Date: March 18, 2026**
-
 ## Acceptance of Terms
 By downloading, installing, or using the Propound mobile application, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, please do not use the app.
 
