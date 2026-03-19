@@ -1,5 +1,3 @@
-# Propound Legal Documents
-
 This repository hosts the Privacy Policy and Terms of Service for the **Propound** Word of the Day mobile application.
 
 ## Pages
