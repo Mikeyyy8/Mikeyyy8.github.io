@@ -7,7 +7,7 @@ title: Propound
 
 ## Pages
 - [Privacy Policy](https://Mikeyyy8.github.io/privacy-policy/)
-- [Terms of Service](https://Mikeyyy8..github.io/terms-of-service/)
+- [Terms of Service](https://Mikeyyy8.github.io/terms-of-service/)
 
 ## About
 Propound is a Word of the Day mobile app designed for users of all ages.
