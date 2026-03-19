@@ -1,3 +1,13 @@
+.menu-icon,
+.nav-trigger,
+.nav-trigger + label {
+  display: none !important;
+}
+
+.site-nav .trigger {
+  display: block !important;
+  clear: none;
+}
 h1 {
   color: #1A237E;
   border-bottom: 2px solid #3949AB;
