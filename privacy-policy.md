@@ -4,9 +4,6 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# Propound
-**Effective Date: March 18, 2026**
-
 ## Introduction
 Welcome to Propound, the Word of the Day mobile application. We are committed to protecting the privacy of all our users, including children. This Privacy Policy explains our practices regarding your personal information when you use the Propound app.
 
