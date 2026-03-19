@@ -1,9 +1,7 @@
+title: Propound Legal Documents
 theme: minima
 
 minima:
   skin: classic
-
-author:
-  name: Propound
 
 show_excerpts: false
