@@ -1,13 +1,8 @@
 title: Propound Legal Documents
-description: Privacy Policy and Terms of Service for Propound
 theme: minima
 
 minima:
   skin: classic
-
-header_pages:
-  - privacy-policy.md
-  - terms-of-service.md
 
 author:
   name: Propound
