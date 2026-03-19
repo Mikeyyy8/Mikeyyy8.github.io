@@ -5,7 +5,6 @@ permalink: /terms-of-service/
 ---
 
 # Propound
-## Terms of Service — Word of the Day Mobile Application
 **Effective Date: March 18, 2026**
 
 ## Acceptance of Terms
