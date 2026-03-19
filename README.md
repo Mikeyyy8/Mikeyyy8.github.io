@@ -1,5 +1,3 @@
-## Propound
-
 ## Pages
 
 - [Privacy Policy](https://yourusername.github.io/your-repo/privacy-policy/)
