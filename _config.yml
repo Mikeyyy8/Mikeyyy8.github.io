@@ -1,4 +1,15 @@
+title: Propound Legal Documents
+description: Privacy Policy and Terms of Service for Propound
+theme: minima
 
-theme: jekyll-theme-minimal
-title: Propound Privacy Policy
-description: Privacy Policy for the propound mobile application
+minima:
+  skin: classic
+
+header_pages:
+  - privacy-policy.md
+  - terms-of-service.md
+
+author:
+  name: Propound
+
+show_excerpts: false
