@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
+**Effective Date: March 18, 2026**
+
 ## Introduction
 Welcome to Propound, the Word of the Day mobile application. We are committed to protecting the privacy of all our users, including children. This Privacy Policy explains our practices regarding your personal information when you use the Propound app.
 
@@ -32,4 +34,20 @@ Parents and guardians may contact us at any time with questions or concerns abou
 Propound provides a daily word, its definition, usage examples, and etymology directly within the app. All content is delivered through the app itself. No internet connection is required to access previously loaded content, and no personal data is transmitted in connection with your use of the app.
 
 ## Third-Party Services
-Propound does not integrate th
+Propound does not integrate third-party advertising networks, analytics platforms, or social media SDKs that collect user data.
+
+## Data Security
+Because we do not collect any personal data, there is no user data stored on our servers. The app operates entirely on your device.
+
+## California Privacy Rights (CCPA)
+If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA). Because Propound does not collect any personal information, there is no personal data to access, delete, or opt out of selling. We do not sell personal information.
+
+California users may contact us at [privacy@propoundapp.com](mailto:privacy@propoundapp.com) with any questions regarding their privacy rights.
+
+## Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected in the app with an updated effective date. Continued use of Propound after changes are posted constitutes your acceptance of the updated policy.
+
+## Contact Us
+If you have questions or concerns about this Privacy Policy, please contact us at:
+
+**Email:** [privacy@propoundapp.com](mailto:privacy@propoundapp.com)
