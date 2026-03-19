@@ -5,7 +5,6 @@ permalink: /privacy-policy/
 ---
 
 # Propound
-## Privacy Policy — Word of the Day Mobile Application
 **Effective Date: March 18, 2026**
 
 ## Introduction
