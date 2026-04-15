@@ -50,4 +50,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Us
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** [privacy@propoundapp.com](mailto:privacy@propoundapp.com)
+**Email:** [privacy@propoundapp.com](mailto:mikeyyyglo12@gmail.com)
