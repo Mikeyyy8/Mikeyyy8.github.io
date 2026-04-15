@@ -49,4 +49,4 @@ To the extent permitted by law, you waive any right to participate in a class-ac
 ## Contact Us
 If you have questions about these Terms of Service, please contact us at:
 
-**Email:** [legal@propoundapp.com](mailto:legal@propoundapp.com)
+**Email:** [mikeyyyglo12@gmail.com](mailto:mikeyyyglo12@gmail.com)
